@@ -1,0 +1,18 @@
+{
+  "devel": true,
+  "browser": true
+  "es5": true,
+  "boss": true,
+  "bitwise": true,
+  "curly": true,
+  "debug": false,
+  "eqeqeq": true,
+  "latedef": true,
+  "laxcomma": true,
+  "newcap": true,
+  "undef": true,
+  "shadow": false,
+  "strict": true,
+  "unused": true,
+  "globals": {}
+}
